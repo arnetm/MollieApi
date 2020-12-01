@@ -13,7 +13,7 @@ namespace Mollie.Api.Models.Order {
         /// The category of product bought.
         //// See the Mollie.Api.Models.Order.OrderLineDetailsCategory class for a full list of known values.
         /// </summary>
-        public string category Type { get; set; }
+        public string Category Type { get; set; }
         
         /// <summary>
         /// A description of the order line, for example LEGO 4440 Forest Police Station.
